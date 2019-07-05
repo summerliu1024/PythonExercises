@@ -5,5 +5,3 @@ s2.sort()
 res = "".join(s2)
 print(res)
 
-s = lambda a, b: a * b
-print(s(2, 4))
